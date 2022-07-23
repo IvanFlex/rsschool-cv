@@ -25,8 +25,9 @@ alert( result );
 ```
 
 ## Education:
-* Belarusian State Economic University, Faculty of Law 
-
+* Belarusian State Economic University, Faculty of Law
+  
 ## Language:
 * English - A2
 * Russian - Native
+* 
